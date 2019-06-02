@@ -1,0 +1,6 @@
+Started by user [8mha:////4KT/FnaJtddDn8GD0mdoQuW+mjqZBTOETgvYZTj51l4tAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /home/ubuntu/.jenkins/workspace/jenkins lionking1
+[jenkins lionking1] $ /bin/sh -xe /tmp/jenkins14265367740616516121.sh
++ echo first project is running successfully
+first project is running successfully
+Finished: SUCCESS

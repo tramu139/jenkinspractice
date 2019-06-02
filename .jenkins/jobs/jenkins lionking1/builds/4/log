@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4MGsz7sYEi1tGANU+67HKKHbu6WuTFHL8QVF5cztWyVaAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgYl/az8JP2s1LzszLxiVSMDkL1Ag4CsgqL8rNTkEiN9AHlRM5PXAAAA[0mjenkins linking project2" build number [8mha:////4Hb51Hu1rxz+AEvQNa6FaVjo5mL7K32ifg/JUiOnWYcRAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmX9rPwk/azUvOzMvGJVIwOQvUCDgKyCovys1OQSI31DAN8yAlvYAAAA[0m1
+originally caused by:
+ Started by upstream project "[8mha:////4FbXqLjpEjMD9L5wsfPjV4Wi4o6ehl6+uOP3i83HUbWxAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgYJ/az8JP2s1LzszLxiVSMDkL1Ag4z1AUwYxVXNAAAA[0mjenkins linking3" build number [8mha:////4O9z12SE/azGzpBiJ/H73P97o2/Nx8+I3MGPy1/EbVEPAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkn9rPwk/azUvOzMvGJVIwOQvUCDjPUNAaLVMf7OAAAA[0m1
+ originally caused by:
+  Started by user [8mha:////4KT/FnaJtddDn8GD0mdoQuW+mjqZBTOETgvYZTj51l4tAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /home/ubuntu/.jenkins/workspace/jenkins lionking1
+[jenkins lionking1] $ /bin/sh -xe /tmp/jenkins2879031948095360523.sh
++ echo first project is running successfully
+first project is running successfully
+Finished: SUCCESS

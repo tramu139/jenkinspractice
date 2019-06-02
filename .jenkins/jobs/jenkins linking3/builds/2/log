@@ -1,0 +1,7 @@
+Started by user [8mha:////4KT/FnaJtddDn8GD0mdoQuW+mjqZBTOETgvYZTj51l4tAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /home/ubuntu/.jenkins/workspace/jenkins linking3
+[jenkins linking3] $ /bin/sh -xe /tmp/jenkins9795505545629364639.sh
++ echo this is project 3
+this is project 3
+Triggering a new build of [8mha:////4MGsz7sYEi1tGANU+67HKKHbu6WuTFHL8QVF5cztWyVaAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgYl/az8JP2s1LzszLxiVSMDkL1Ag4CsgqL8rNTkEiN9AHlRM5PXAAAA[0mjenkins linking project2
+Finished: SUCCESS
